@@ -1,0 +1,13 @@
+<html>
+  <head>
+  <title>Club</title>
+   <link rel="stylesheet" type="text/css" href="formato.css">
+  </head>
+  <body>
+    <table>
+<tr><th colspan="2">Club</th></tr>
+   <tr><td colspan="2" class="menu">Inicio | Servicios</td></tr>
+   <tr></tr>
+    </table>
+  </body>
+</html>
